@@ -2,6 +2,6 @@ Class Java1
 {
 	public statis void main(String a[])
 	{
-		System.out.println("Wlcome to java");
+		System.out.println("Welcome to java");
 	}
 }
