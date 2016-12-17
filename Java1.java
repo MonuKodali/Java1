@@ -1,6 +1,6 @@
 Class Java1
 {
-	public statis void main(String a[])
+	public static void main(String a[])
 	{
 		System.out.println("Welcome to java");
 	}
